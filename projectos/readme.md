@@ -1,3 +1,3 @@
-# /materiais 
+# /projectos 
 
-Materiais de apoio, como leituras recomendadas e tutoriais.
+Trabalhos práticos, projectos...
