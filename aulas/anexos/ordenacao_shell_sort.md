@@ -1,4 +1,4 @@
-# Algoritmos de Ordenação: Insertion Sort
+# Algoritmos de Ordenação: Shell Sort
 
 Aqui está a versão do **Shell Sort** com base na explicação detalhada, utilizando uma variação precisa do algoritmo, como sugerido por Donald Ervin Knuth. O **Shell Sort** é uma melhoria do Insertion Sort que permite comparações e trocas de elementos mais distantes entre si, o que acelera a ordenação. A ideia é reduzir gradualmente o valor do intervalo (h) e aplicar o **Insertion Sort** a essas subsequências.
 
