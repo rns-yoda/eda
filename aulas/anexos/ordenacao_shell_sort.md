@@ -17,7 +17,7 @@ Aqui está a versão do **Shell Sort** com base na explicação detalhada, utili
 ---
 
 ### Passos do Algoritmo:
-1. Calcular o valor inicial de **h** ([ver exemplo aqui...]()).
+1. Calcular o valor inicial de **h** ([ver exemplo aqui...](https://github.com/rns-yoda/eda/blob/main/aulas/anexos/ordenacao_shell_sort%20-%20precisao_donald_knuth.md)).
 2. Para cada **h**, percorre-se o vetor realizando um **Insertion Sort** para as subsequências formadas pelos índices separados por `h`.
 3. Repetir o processo até o valor de **h** ser 1.
 4. Quando `h = 1`, o algoritmo realiza um **Insertion Sort** completo.
@@ -32,7 +32,7 @@ Vamos usar o vetor: `{3, 0, 11, 5, 2, 1, 7, 9, 10}` e aplicar o **Shell Sort** c
 
 ### Passos do Algoritmo:
 
-1. Iniciamos com o valor **h = 4** ([seguindo a fórmula de Knuth]()).
+1. Iniciamos com o valor **h = 4** ([seguindo a fórmula de Knuth](https://github.com/rns-yoda/eda/blob/main/aulas/anexos/ordenacao_shell_sort%20-%20precisao_donald_knuth.md)).
 2. Durante a execução, vamos reduzir **h** até **h = 1**.
 3. Quando **h = 1**, realizamos o **Insertion Sort** regular.
 
