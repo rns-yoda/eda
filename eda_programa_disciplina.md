@@ -93,4 +93,11 @@ Estudo da notação polonesa e suas aplicações.
 ---
 
 ## Referências [em actualização]
-- 
+- Bhargava, A. Y. (2017). Entendendo algoritmos: Um guia ilustrado para programadores e outros curiosos. Novatec.
+- Goodrich, M. T., Tamassia, R., & Goldwasser, M. H. (2013). Data structures and algorithms in Python. Wiley.
+- Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2012). Algoritmos: Teoria e prática (3rd ed.). Elsevier Editora Ltda.
+- Ascencio, A. F. G. (2010). Estruturas de dados: Algoritmos, análise da complexidade e implementações em Java e C/C++ (2nd ed.). Pearson Prentice Hall.
+- Drozdek, A. (2005). Estrutura de dados e algoritmos em C++. Cengage Learning.
+### Bibliografia complementar:
+- Knuth, D. E. (1998). The art of computer programming: Volume 3 - Sorting and searching (2nd ed.). Addison-Wesley.
+- Knuth, D. E. (1997). The art of computer programming: Volume 1 - Fundamental algorithms (3rd ed.). Addison-Wesley.
