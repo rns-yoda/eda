@@ -434,5 +434,5 @@ HashMap<String, List<Cliente>> clientesPorAgencia = new HashMap<>();
 Lembre-se: não existe estrutura perfeita, apenas a mais adequada para cada contexto específico.
 
 ### OBS:
-- Usar o projecto "Produto" como referência para praticar as diferentes estruturas.
+- Usar o projecto ["Produto"](https://github.com/rns-yoda/eda/tree/main/projectos/ed_produtos) como referência para praticar as diferentes estruturas.
 - Não precisam decorar, basta consultar a documentação sobre cada estrutura.
